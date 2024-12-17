@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**MananDoshi03/MananDoshi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm <i>Manan Doshi</i></h1>
+<br>
+<a href="#">
+  <img align="left" alt="Manan's Website" width="40px" src="https://img.icons8.com/color/48/000000/domain--v1.png" />
+</a>
+<a href="https://www.linkedin.com/in/manan-doshi-75391527b/">
+  <img align="left" alt="Manan's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+</a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=manandoshi01@gmail.com">
+  <img align="left" alt="Manan's gmail" width="40px" src="icons8-gmail.svg" />
+</a>
